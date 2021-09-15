@@ -2,7 +2,7 @@
 
 ## Workshop OUTLINES
 
-- [Introduction]()
+- [Introduction](https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/Py%20for%20Econ-Intro-UT%20Workshop-Sum%202021.pdf)
 - Python Setup
 - [Object and Data Structure Basics]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
 
