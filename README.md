@@ -1,7 +1,7 @@
 # University of Tehran Workshop Summer 2021
 This repository contains the contents of the "Python for Economics" workshop at University of Tehran. (Summer 2021)
 
-<img src = "https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/poster.jpg?raw=true" width="550" >
+<img src = "https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/poster%2003.jpg?raw=true" width="550" >
 
 ## The requirements and recommendations
 
