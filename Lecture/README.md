@@ -6,7 +6,7 @@
 - Python Setup
 - [Object and Data Structure Basics](https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/1.%20Data%20Structure%20Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/1.%20Data%20Structure%20Basics.ipynb)
 
-- [Python Statements and Functions](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+- [Python Statements and Functions](https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/2.%20Conditional%20Control%20and%20Function.ipynb)
 
 - Packages:
   - [Numpy](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
