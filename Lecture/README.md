@@ -21,7 +21,7 @@
 ## Exercises
 - [Exercise 01 (Python Basic)](https://drive.google.com/file/d/1fpXzyGLCmcA-kS-H4ja2fDw478lg-Dy9/view?usp=sharing)
 - [Exercise 02 (Loops and Functions)](https://drive.google.com/file/d/18XfueMdxNANZeASv77MYh865_5M8Zl4F/view?usp=sharing)
-- [Exercise 03 (Numpy and Matplotlib)]()
+- [Exercise 03 (Numpy and Matplotlib)](https://drive.google.com/file/d/1BkYSxm-xzf0hULsclBpqNmVL6kgQh5tK/view?usp=sharing)
 - [Exercise 04 (Pandas 01 & 02)]()
 - [Exercise 05 (Pandas 03)]()
 - [Project 01]()
