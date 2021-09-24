@@ -11,8 +11,8 @@
 - Packages:
   - [Numpy](https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/3.%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/3.%20NumPy.ipynb)
   - [Matplotlib](https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/4.%20Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/4.%20Matplotlib.ipynb)
-  - [Pandas (part 01)](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
-  - [Pandas (part 02)](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [Pandas (part 01)](https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/5.%20Pandas%2001.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/5.%20Pandas%2001.ipynb)
+  - [Pandas (part 02)](https://github.com/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/6.%20Pandas%2002.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/UT-workshop-sum2021/blob/main/Lecture/6.%20Pandas%2002.ipynb)
   - [Pandas (part 03)](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
   
   
@@ -22,7 +22,7 @@
 - [Exercise 01 (Python Basic)](https://drive.google.com/file/d/1fpXzyGLCmcA-kS-H4ja2fDw478lg-Dy9/view?usp=sharing)
 - [Exercise 02 (Loops and Functions)](https://drive.google.com/file/d/18XfueMdxNANZeASv77MYh865_5M8Zl4F/view?usp=sharing)
 - [Exercise 03 (Numpy and Matplotlib)](https://drive.google.com/file/d/1BkYSxm-xzf0hULsclBpqNmVL6kgQh5tK/view?usp=sharing)
-- [Exercise 04 (Pandas 01 & 02)]()
+- [Exercise 04 (Pandas 01 & 02)](https://drive.google.com/file/d/18JIDVnA6TZoJeThfzeDu22c7xhfxx4pm/view?usp=sharing)
 - [Exercise 05 (Pandas 03)]()
 - [Project 01]()
 
